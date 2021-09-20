@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Applicationwts</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Status</string>
+    <string name="tab_text_3">Calls</string>
+
+    <string-array name = "chat_names">
+        <items>derick</items>
+        <items>susan</items>
+        <items>maggie</items>
+        <items>wesley</items>
+        <items>ian</items>
+        <items>king</items>
+        <items>achieng</items>
+    </string-array>
+</resources>
